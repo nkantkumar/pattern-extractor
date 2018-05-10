@@ -1,3 +1,3 @@
 # screening-test
 
-Negative number test cases is commented. To verify please comment the @ignore
+Negative number test cases is Ignored. To verify please comment the @ignore
